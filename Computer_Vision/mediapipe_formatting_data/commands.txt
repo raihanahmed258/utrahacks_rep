@@ -1,0 +1,5 @@
+forward: hands open
+stop: just no hands (so 0 everywhere)
+turn: hands closed
+grapple everywhere = both hands
+

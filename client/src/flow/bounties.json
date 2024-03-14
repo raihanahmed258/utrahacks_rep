@@ -1,0 +1,53 @@
+{
+  "bounties": [
+    {
+      "name": "Colony Construction",
+      "description": "Assist in the building of new habitat structures.",
+      "image": "https://proest.com/wp-content/uploads/2022/11/Building-Construction-Process-From-Start-To-Finish.jpg",
+      "assigner": "spaCey",
+      "price": "8.0"
+    },
+    {
+      "name": "Drainage System Repair",
+      "description": "Fix leaks and improve the efficiency of the colony's water recycling system.",
+      "image": "https://www.selfbuildanddesign.com/editorial_images/page_images/featured_images/nextsteps/drainage/drainage-trench-with-granular-backfill.jpg",
+      "assigner": "spaCey",
+      "price": "6.0"
+    },
+    {
+      "name": "Hydroponic Farming",
+      "description": "Cultivate and harvest crops in the hydroponic farms.",
+      "image": "https://modernfarmer.com/wp-content/uploads/2017/05/hydrorganics-1200x801.jpg",
+      "assigner": "spaCey",
+      "price": "5.0"
+    },
+    {
+      "name": "Solar Panel Maintenance",
+      "description": "Conduct routine maintenance and repairs on solar panels.",
+      "image": "https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/home-improvement/wp-content/uploads/2022/10/Screen_Shot_2022-10-13_at_3.26.30_PM.png",
+      "assigner": "spaCey",
+      "price": "7.0"
+    },
+    {
+      "name": "Atmosphere Monitoring",
+      "description": "Analyze and report on the colony's atmospheric conditions.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Top_of_Atmosphere.jpg",
+      "assigner": "spaCey",
+      "price": "4.0"
+    },
+    {
+      "name": "Medical Research",
+      "description": "Participate in medical studies to understand health in Martian conditions.",
+      "image": "https://cdn-prod.medicalnewstoday.com/content/images/articles/327/327372/gloved-hand-picking-samples-for-analysis.jpg",
+      "assigner": "spaCey",
+      "price": "9.0"
+    },
+    {
+      "name": "Rover Deployment",
+      "description": "Assist in the deployment and operation of exploration rovers.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/NASA_Mars_Rover.jpg",
+      "assigner": "spaCey",
+      "price": "7.0"
+    }
+  ]
+}

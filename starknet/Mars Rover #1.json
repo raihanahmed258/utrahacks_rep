@@ -1,0 +1,1 @@
+{"id":"0xea2894953a7b4b22895b0969a6c70064","name":"Mars Rover #1","description":"First Mars Rover. Made at UTRAHacks. Owned by spaCey DAO.","regionSize":100000,"version":1,"briqs":[{"pos":[-1,0,0],"data":{"material":"0x1","color":"#000000"}},{"pos":[0,1,0],"data":{"material":"0x1","color":"#efc764"}},{"pos":[1,0,0],"data":{"material":"0x1","color":"#000000"}}]}
